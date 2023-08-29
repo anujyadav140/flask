@@ -5,3 +5,9 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
+flask_cors
+syllapy
+nltk
+pronouncing
+cmudict
+poetrytools @ git+https://github.com/anujyadav140/Poetry-Tools.git
